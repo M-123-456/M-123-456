@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miki Gerlach</h1>
 <h3 align="center">A passionate developer from Japan settled in Germany</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, TypeScript**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
