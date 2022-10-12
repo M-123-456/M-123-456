@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Miki Gerlach</h1>
 <h3 align="center">A passionate developer from Japan settled in Germany</h3>
 
-- 🌱 I’m currently learning **React, TypeScript, NextJS**
+- 🌱 I’m currently learning **Node.js, Express, MongoDB**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 - 📫 How to reach me **hello@mikigerlach.com**
 
