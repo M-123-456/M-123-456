@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
-- 📫 How to reach me **hello.com**
+- 📫 How to reach me **hello@mikigerlach.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
